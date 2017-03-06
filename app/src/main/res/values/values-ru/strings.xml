@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">STRAXI Comics</string>
+    <string name="app_description">Программа для чтения комиксов и манги</string>
+
+    <string name="action_refresh">Refresh</string>
+    <string name="action_settings">Настройки</string>
+
+    <string name="action_view_mode">Режим просмотра</string>
+    <string name="action_view_mode_aspect_fill">Aspect Fill</string>
+    <string name="action_view_mode_aspect_fit">Aspect Fit</string>
+    <string name="action_view_mode_fit_width">Fit Width</string>
+
+    <string name="action_reading_mode">Режим чтения</string>
+    <string name="action_reading_mode_left_to_right">Комикс</string>
+    <string name="action_reading_mode_right_to_left">Манга</string>
+
+    <string name="menu_browser_filter">Фильтр</string>
+    <string name="menu_browser_filter_all">Все</string>
+    <string name="menu_browser_filter_read">Читать</string>
+    <string name="menu_browser_filter_reading">Читается в данный момент</string>
+    <string name="menu_browser_filter_unread">Не прочитано</string>
+    <string name="menu_browser_filter_unfinished">Незаконченные</string>
+
+    <string name="drawer_open">Открыть панель навигации</string>
+    <string name="drawer_close">Закрыть панель навигации</string>
+
+    <string name="menu_library">Библиотека</string>
+    <string name="menu_browser">Хранилище</string>
+    <string name="menu_about">About</string>
+
+    <string name="library_header_recent">Недавний</string>
+    <string name="library_header_all">Все</string>
+
+    <string name="directory_picker_header">Установить каталог библиотеки</string>
+    <string name="directory_picker_confirm">Выбрать</string>
+    <string name="directory_picker_cancel">Отменить</string>
+
+    <string name="search">Поиск</string>
+
+    <string name="browser_search_hint">Пожалуйста введите критерий поиска</string>
+
+    <string name="reload">Перезагрузить</string>
+
+    <string name="switch_action_positive">Да</string>
+    <string name="switch_action_negative">Нет</string>
+    <string name="switch_next_comic">Вы хотите перейти к следущему комиксу?</string>
+    <string name="switch_prev_comic">Вы хотите перейти к предыдущему комиксу?</string>
+
+    <string name="library_empty">Ваша коллекция пустая. Нажмите на значок \"folder\" для выбора каталога библиотеки</string>
+    <string name="warning_missing_file">Отсутствует файл. Пожалуйста, обновите библиотеку</string>
+</resources>
