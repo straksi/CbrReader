@@ -1,1 +1,1 @@
-# Android project for open and read CBR files
+# Android project for opening and reading CBR files
